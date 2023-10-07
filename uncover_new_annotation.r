@@ -1,4 +1,4 @@
-##annot files tracking##
+##annot files tracking###
 library (tidyverse)
 Anno_OBASE_15.11.22 <- read_tsv ("C:/Rawdata (1)/annotation_O.BASE/OryzabaseGeneListAll_20221115010001.txt")
 Anno_OBASE_10.12.22 <- read_tsv ("C:/Rawdata (1)/annotation_O.BASE/OryzabaseGeneListAll_20221210010000.txt")
