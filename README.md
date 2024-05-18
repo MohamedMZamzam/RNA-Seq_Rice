@@ -1,3 +1,6 @@
-# my-codes has code for discovering newly annotated genes in rice by comparing annnotation in one file to another
+# QC and Read mapping in Rice
+<p align="justify">
+To do QC.
+
 
 
