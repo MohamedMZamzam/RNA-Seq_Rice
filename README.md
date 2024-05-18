@@ -16,3 +16,9 @@ Count the raw and normalized reads mapped to each genomic feature and compare th
 ### Files and datasets
 1. we used the sorted bam files from the previous step
 2. For making the SAF, we used the transcript annotation file (transcripts.gff) or the locus annotation file (locus.gff) [download from here](https://rapdb.dna.affrc.go.jp/download/archive/irgsp1/IRGSP-1.0_representative_2024-01-11.tar.gz)
+
+## Annotation
+Annotate the list of DEG from the information available on database
+### Files and datasets
+1. Annotation files can be downloaded from different database. The example file used here is downloaded from Oryzabase databse
+
