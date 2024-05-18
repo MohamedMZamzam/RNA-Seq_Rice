@@ -1,6 +1,6 @@
 #Set working directory
 setwd(":/Rawdata (1)/double/")
-#Load ibraries
+#Load libraries
 library(Rsubread)
 library (tidyverse)
 library(Rsamtools)
