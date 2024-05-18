@@ -5,7 +5,5 @@ To do QC.
 ## Datasets
 
 
-<a href="[url](https://github.com/KorfLab/Assemblathon)">link text</a>
-
 
 
