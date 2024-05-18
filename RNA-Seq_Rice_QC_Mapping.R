@@ -18,7 +18,7 @@ json_report <- rfastp(read1 = "R1.fastq.gz", read2 = "R2.fastq.gz", adapterSeque
 qcSummary(json_report)
 
 #Load the transcript annotation file
-Transcript <- rtracklayer::readGFF("D://IGV/RAP REF GENOME/transcripts(1).gff") %>% as.data.frame
+Transcript <- rtracklayer::readGFF("D://IGV/RAP REF GENOME/transcripts.gff") %>% as.data.frame
 
 #make the annotation file data frame
 SAF <- data.frame(GeneID = Transcript$Locus_id, Chr = Transcript$seqid, Start = Transcript$start,
